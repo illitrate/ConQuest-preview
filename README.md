@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Assets/ConQuest_Logo.png" alt="ConQuest Logo" width="512">
+  <img src="Assets/ConQuest_Logo2.png" alt="ConQuest Logo" width="512">
 </p>
 
 # ConQuest
